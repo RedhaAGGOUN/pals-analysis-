@@ -1,0 +1,11 @@
+name,hp,melee_attack,remote_attack,defense,support,experience_ratio,slow_walking_speed,walking_speed,running_speed,riding_speed,handling_speed,ignore_the_bluntness,ignore_displacement,biologicalgrade,endurance,fecundity
+Victor & Heterogeneous Griffin,8000,130,200,220,90,30,80,80,850,1100,465,TRUE,TRUE,9,100,9999
+Heterogeneous Griffin,120,130,120,140,90,1,80,80,850,1200,465,FALSE,FALSE,5,250,60
+Zoe & Lightning Bear,6000,100,100,100,100,30,80,140,470,650,287,TRUE,TRUE,9,100,9999
+Lightning Bear,105,120,100,100,100,1,80,140,470,550,210,FALSE,FALSE,5,100,200
+Marcus & Horus,6500,100,120,125,90,30,150,200,1000,1300,500,TRUE,TRUE,9,100,9999
+Horus,100,100,105,110,90,1,150,200,1000,1400,500,FALSE,FALSE,5,230,370
+Lily & Lily Queen,5500,100,110,105,100,30,60,100,450,650,275,TRUE,TRUE,9,100,9999
+lily queen,110,100,110,105,100,1,60,100,450,550,275,FALSE,FALSE,5,100,250
+Axel & Pollux,6500,100,140,110,100,30,100,185,900,1300,542,TRUE,TRUE,9,100,9999
+Pollux,100,100,130,100,100,1,100,185,900,1200,250,FALSE,FALSE,5,100,140
